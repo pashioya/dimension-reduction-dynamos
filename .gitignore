@@ -2,6 +2,7 @@
 #Ignore all the virtual environment files
 venv
 venv/**
-
+# ignore the created reduced csv file
+/data/**
 .idea
 .idea/**
